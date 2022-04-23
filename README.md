@@ -1,4 +1,4 @@
-QuizWiz
+Quickquiz
 A platform to test and increase your knowledge!
 Features
 Signup and Login
